@@ -16,4 +16,5 @@ I’m currently working on building a MERN stack–based URL shortener<br>I’m 
 ---
 [![](https://visitcount.itsvg.in/api?id=vatsal-404&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- https://camo.githubusercontent.com/659d2f5e22acfb480efd0b8fc0636facc729003a884869af799535e8054492ce/68747470733a2f2f6e69727a616b2d73747265616b2d73746174732e76657263656c2e6170702f3f757365723d76617473616c2d343034267468656d653d626c7565626572727926686964655f626f726465723d74727565
+-->
